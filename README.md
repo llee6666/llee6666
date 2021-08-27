@@ -1,4 +1,5 @@
 ### Hi there 👋
+After completion the Certificate IV in Web-Based Technologies, I am enrolled in the Diploma of Web Development at TAFE. I would like to share my experience with anyone who is interested in becoming a web developer.
 
 <!--
 **llee6666/llee6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
